@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         print("ok")
         print ("commit")
+        print("custom branch")
         
     }
 
