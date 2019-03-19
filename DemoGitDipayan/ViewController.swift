@@ -14,10 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        print("ok")
-        print ("commit")
-        print("custom branch")
-        // Demo change for testing git
+       //branch3 right now.It should conflict with Master and branch2
 
     }
 
